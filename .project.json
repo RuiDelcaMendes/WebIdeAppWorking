@@ -47,7 +47,7 @@
     "resourceModelName": "i18n"
   },
   "mockpreview": {
-    "mockUri": "/CarHibernateOlingo/CarListServlet.svc",
+    "mockUri": "https://olingohibernatecar.azurewebsites.net/CarListServlet.svc/",
     "metadataFilePath": "",
     "loadJSONFiles": false,
     "loadCustomRequests": false,
@@ -77,7 +77,7 @@
         },
         "originOdata": {
           "name": "mainService",
-          "serviceUrl": "/CarHibernateOlingo/CarListServlet.svc/"
+          "serviceUrl": "https://olingohibernatecar.azurewebsites.net/CarListServlet.svc/"
         }
       }
     ]
